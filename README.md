@@ -1,4 +1,9 @@
 # Agenda
-Atividade de agenda do Alexandre
+Atividade de Agenda do Alexandre (Algoritmos II - Estrutura De Dados)
+Aluno: Rafael Rodrigues Ramos 
+3ª Período
 
-goku
+Código:
+
+
+
